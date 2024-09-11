@@ -1,20 +1,14 @@
 <h1 align="center">Hi there, Oguzhan here <img src="assets/hi.gif" width="30px"></h1>
-<p align="center"><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oguzhnatly&style=flat-square" />
   <a target="_blank" href="https://github.com/oguzhnatly"><img alt="Follow me | oguzhnatly GitHub Profile" src="https://img.shields.io/github/followers/oguzhnatly?label=Follow&style=flat-square"></a>
-  <!--<a href="https://api.whatsapp.com/send?phone=+905533480648&text=Hello%20Oguzhan,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/Whatsapp-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" /></a>-->
-  <a target="_blank" href="mailto:info@oguzhanatalay.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
+  <!--<a target="_blank" href="mailto:info@oguzhanatalay.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>-->
   <a target="_blank" href="https://www.linkedin.com/in/oguzhanatalay/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a target="_blank" href="https://twitter.com/oguzhanatalay_"><img alt="Follow @oguzhanatalay_ on Twitter" src="https://img.shields.io/twitter/follow/oguzhanatalay_?label=Follow%20me&style=social"></a>
 </p>
-<ul>
-  <li>👨‍💻 Passionate Developer.</li>
-  <li>💬 Ask me about anything, I'll be happy to help.</li>
-  <li>📫 How to reach me: <a href="mailto:info@oguzhanatalay.com">info@oguzhanatalay.com</a></li>
-</ul>
-
-<h3>🚀 Languages and Tools</h3>
+📫 Reach me: <a href="mailto:info@oguzhanatalay.com">info@oguzhanatalay.com</a>
+<br>
+<!--<h3>🚀 Some of the Languages and Tools</h3>-->
+<br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
