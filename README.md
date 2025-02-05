@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, Oguzhan here <img src="assets/hi.gif" width="30px"></h1>
-<p align="center">
+<h1>Hi there, Oguzhan here <img src="assets/hi.gif" width="30px"></h1>
+<p>
   <img src="https://komarev.com/ghpvc/?username=oguzhnatly&style=flat-square" />
   <a target="_blank" href="https://github.com/oguzhnatly"><img alt="Follow me | oguzhnatly GitHub Profile" src="https://img.shields.io/github/followers/oguzhnatly?label=Follow&style=flat-square"></a>
   <!--<a target="_blank" href="mailto:info@oguzhanatalay.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>-->
@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-%2320232A.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 <br>
@@ -31,8 +32,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 <br>
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Apple Developer Program Member](https://img.shields.io/badge/Apple_Developer-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play Console Program Member](https://img.shields.io/badge/Play_Console_Developer-414141?style=for-the-badge&logo=google-play&logoColor=white)
 <br>
