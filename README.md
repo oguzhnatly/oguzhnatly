@@ -38,7 +38,7 @@
 ![Google Play Console Program Member](https://img.shields.io/badge/Play_Console_Developer-414141?style=for-the-badge&logo=google-play&logoColor=white)
 <br>
 
-<h3>✍🏻 My Latest Hashnode Blog Posts</h3>
+<h3>✍🏻 My Hashnode Blog Posts</h3>
 
 <!-- HASHNODE:START -->
 - [Add CarPlay to your Flutter App 🚗](https://blog.oguzhanatalay.com/add-carplay-to-your-flutter-app)
@@ -48,7 +48,7 @@
 <h3>⚙️ GitHub Analytics</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=1&count_private=true" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnatly&layout=compact&theme=gotham&hide_border=1" />-->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhnatly&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnatly&layout=compact&theme=gotham&hide_border=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhnatly&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />-->
   <img src="https://github-profile-trophy.vercel.app/?username=oguzhnatly&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
