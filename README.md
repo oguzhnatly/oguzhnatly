@@ -7,13 +7,13 @@
   <a href="https://www.linkedin.com/in/oguzhanatalay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
+<p>📫 <a href="mailto:info@oguzhanatalay.com">info@oguzhanatalay.com</a></p>
+
 Senior Full Stack Engineer who's been building at scale for years. 
 
 Sometimes I solve problems that big tech left open for ages, like Flutter's CarPlay integration that Google's team never solved.
 
 Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Node.js, Python, Java, cloud infra (OpenStack, AWS), and whatever else the problem demands.
-
-<p>📫 <a href="mailto:info@oguzhanatalay.com">info@oguzhanatalay.com</a></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
 
