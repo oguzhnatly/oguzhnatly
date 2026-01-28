@@ -15,9 +15,11 @@ Sometimes I solve problems that big tech left open for ages, like Flutter's CarP
 
 Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Node.js, Python, Java, cloud infra (OpenStack, AWS), and whatever else the problem demands.
 
-<img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=oguzhnatly&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=oguzhnatly&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" /> -->
+
+<img align="left" width="390" alt="Oguzhan Atalay" src="https://github.com/oguzhnatly/oguzhnatly/blob/main/github-metrics.svg">
 
 <h3>✍🏻 Blog Posts</h3>
 
