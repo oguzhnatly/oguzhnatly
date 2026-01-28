@@ -17,8 +17,6 @@ Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Nod
 
 <img src="github-metrics.svg" />
 
-<img src="github-metrics-achievements.svg" />
-
 <h3>✍🏻 Blog Posts</h3>
 
 <!-- HASHNODE:START -->
