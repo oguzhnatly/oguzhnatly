@@ -3,6 +3,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=oguzhnatly&style=flat-square" />
   <a href="https://github.com/oguzhnatly"><img src="https://img.shields.io/github/followers/oguzhnatly?label=Follow&style=flat-square"></a>
+  <!-- <a href="https://github.com/sponsors/oguzhnatly"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors"></a> -->
   <a href="https://www.linkedin.com/in/oguzhanatalay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -15,6 +16,8 @@ Sometimes I solve problems that big tech left open for ages, like Flutter's CarP
 Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Node.js, Python, Java, cloud infra (OpenStack, AWS), and whatever else the problem demands.
 
 <img src="github-metrics.svg" />
+
+<img src="github-metrics-achievements.svg" />
 
 <h3>✍🏻 Blog Posts</h3>
 
