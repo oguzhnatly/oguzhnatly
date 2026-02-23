@@ -31,4 +31,4 @@ jobs:
           plugin_releases: yes
           plugin_releases_limit: 1
           plugin_repositories: yes
-          plugin_repositories_starred: 1
+          plugin_repositories_starred: 2
