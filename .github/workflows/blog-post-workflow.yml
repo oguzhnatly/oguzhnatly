@@ -7,9 +7,53 @@ jobs:
     name: Update this repo's README with latest Hashnode blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "HASHNODE"
-          commit_message: "Updated readme with the latest Hashnode Blog data"
-          feed_list: "https://blog.oguzhanatalay.com/rss.xml"
+      - uses: actions/checkout@v4
+      - name: Fetch latest blog posts from Hashnode API
+        run: |
+          POSTS=$(curl -s -X POST https://gql.hashnode.com \
+            -H "Content-Type: application/json" \
+            -d '{"query":"{ publication(id: \"5ff1dc0e45519f71a3336f7c\") { posts(first: 5) { edges { node { title url publishedAt brief } } } } }"}')
+          
+          # Generate markdown list
+          echo "$POSTS" | python3 -c "
+          import json, sys
+          data = json.load(sys.stdin)
+          posts = data['data']['publication']['posts']['edges']
+          lines = []
+          for p in posts:
+              node = p['node']
+              title = node['title']
+              url = node['url']
+              lines.append(f'- [{title}]({url})')
+          print('\n'.join(lines))
+          " > /tmp/blog_posts.md
+          
+          cat /tmp/blog_posts.md
+      - name: Update README
+        run: |
+          # Replace content between HASHNODE markers
+          python3 << 'SCRIPT'
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          with open('/tmp/blog_posts.md', 'r') as f:
+              posts = f.read().strip()
+          
+          start_marker = '<!-- HASHNODE:START -->'
+          end_marker = '<!-- HASHNODE:END -->'
+          
+          if start_marker in content and end_marker in content:
+              before = content[:content.index(start_marker) + len(start_marker)]
+              after = content[content.index(end_marker):]
+              content = before + '\n' + posts + '\n' + after
+          
+          with open('README.md', 'w') as f:
+              f.write(content)
+          SCRIPT
+      - name: Commit and push
+        run: |
+          git config --global user.email "oguzhnatly@gmail.com"
+          git config --global user.name "Oguzhan Atalay"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Updated readme with the latest Hashnode Blog data"
+          git push
