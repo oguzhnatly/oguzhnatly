@@ -24,6 +24,7 @@ Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Nod
 <h3>✍🏻 Blog Posts</h3>
 
 <!-- HASHNODE:START -->
+- [The Hard Way to Learn AI Agents Need a Constitution (Not Prompts)](https://blog.oguzhanatalay.com/why-your-ai-agent-needs-a-constitution)
 - [Architecting a Multi-Agent AI Fleet on a Single VPS](https://blog.oguzhanatalay.com/architecting-multi-agent-ai-fleet-single-vps)
 - [Add CarPlay to your Flutter App 🚗](https://blog.oguzhanatalay.com/add-carplay-to-your-flutter-app)
 - [React Native: How to add drop shadow with animation effects on Android!](https://blog.oguzhanatalay.com/react-native-how-to-add-drop-shadow-effects-on-android-supports-animation)
