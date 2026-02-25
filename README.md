@@ -19,7 +19,7 @@ Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Nod
 
 <img src="https://github-profile-trophy.vercel.app/?username=oguzhnatly&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" /> -->
 
-<img align="left" width="390" alt="Oguzhan Atalay" src="https://github.com/oguzhnatly/oguzhnatly/blob/master/github-metrics.svg">
+<img align="left" width="385" alt="Oguzhan Atalay" src="https://github.com/oguzhnatly/oguzhnatly/blob/master/github-metrics.svg">
 
 <h3>✍🏻 Blog Posts</h3>
 
