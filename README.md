@@ -13,7 +13,7 @@ Senior Full Stack Engineer who's been building at scale for years.
 
 Sometimes I solve problems that big tech left open for ages, like Flutter's CarPlay integration that Google's team never solved.
 
-Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Node.js, Python, Java, cloud infra (OpenStack, AWS), and whatever else the problem demands.
+Building across the fullstack: React, React Native, Next.js, Flutter, Swift, Skip Fuse, Node.js, Python, Java, cloud infra (OpenStack, AWS), and whatever else the problem demands.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=true&count_private=true" />
 
