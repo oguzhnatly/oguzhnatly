@@ -26,7 +26,7 @@ Building across the fullstack: React, React Native, Next.js, Flutter, Swift & Sk
 <!-- HASHNODE:START -->
 - [Engraving images live in the browser: generative line art with SVG and WebGL](https://oguzhanatalay.com/writing/engraving_images_live_in_the_browser/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=engraving_images_live_in_the_browser)
 - [The hard way to learn: AI agents need a constitution, not prompts](https://oguzhanatalay.com/writing/ai_agents_need_a_constitution/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=ai_agents_need_a_constitution)
-- [I run 6 AI agents as my engineering team](https://oguzhanatalay.com/writing/ai_agents_engineering_team/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=ai_agents_engineering_team)
+- [Orchestrating AI Coding Agents on a Single VPS](https://oguzhanatalay.com/writing/ai_agents_engineering_team/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=ai_agents_engineering_team)
 - [Add CarPlay to your Flutter app](https://oguzhanatalay.com/writing/add_carplay_to_your_flutter_app/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=add_carplay_to_your_flutter_app)
 - [Animated drop shadows on Android in React Native](https://oguzhanatalay.com/writing/react_native_android_drop_shadows/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=react_native_android_drop_shadows)
 
