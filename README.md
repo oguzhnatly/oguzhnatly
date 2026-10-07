@@ -21,11 +21,14 @@ Building across the fullstack: React, React Native, Next.js, Flutter, Swift & Sk
 
 <img align="left" width="385" alt="Oguzhan Atalay" src="https://github.com/oguzhnatly/oguzhnatly/blob/master/github-metrics.svg">
 
-<h3>✍🏻 Blog Posts</h3>
+<h3>✍🏻 Writing</h3>
 
 <!-- HASHNODE:START -->
-- [The Hard Way to Learn AI Agents Need a Constitution (Not Prompts)](https://blog.oguzhanatalay.com/why-your-ai-agent-needs-a-constitution)
-- [Architecting a Multi-Agent AI Fleet on a Single VPS](https://blog.oguzhanatalay.com/architecting-multi-agent-ai-fleet-single-vps)
-- [Add CarPlay to your Flutter App 🚗](https://blog.oguzhanatalay.com/add-carplay-to-your-flutter-app)
-- [React Native: How to add drop shadow with animation effects on Android!](https://blog.oguzhanatalay.com/react-native-how-to-add-drop-shadow-effects-on-android-supports-animation)
+- [Engraving images live in the browser: generative line art with SVG and WebGL](https://oguzhanatalay.com/writing/engraving_images_live_in_the_browser/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=engraving_images_live_in_the_browser)
+- [The hard way to learn: AI agents need a constitution, not prompts](https://oguzhanatalay.com/writing/ai_agents_need_a_constitution/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=ai_agents_need_a_constitution)
+- [I run 6 AI agents as my engineering team](https://oguzhanatalay.com/writing/ai_agents_engineering_team/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=ai_agents_engineering_team)
+- [Add CarPlay to your Flutter app](https://oguzhanatalay.com/writing/add_carplay_to_your_flutter_app/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=add_carplay_to_your_flutter_app)
+- [Animated drop shadows on Android in React Native](https://oguzhanatalay.com/writing/react_native_android_drop_shadows/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=react_native_android_drop_shadows)
+
+[All writing →](https://oguzhanatalay.com/writing/?utm_source=github&utm_medium=profile_readme&utm_campaign=writing&utm_content=all_writing)
 <!-- HASHNODE:END -->
